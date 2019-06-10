@@ -2,6 +2,9 @@
 
 Endgame is a contemporary free games website that will help you quick-start your gaming project. It is an ideal for making gaming blogs and review websites due to the highly adaptive and fully customizable web design. Endgame is also based on Bootstrap Framework what ensures flexibility and mobile-readiness. Meaning, your final game-packed website will work seamlessly on all devices, from mobile phones and up to desktop computers. Indeed, Endgame is also compatible with retina screens and modern web browsers.
 
+## Live Preview
+[Check Live Working](https://tweekersnut-tutorial.ml)
+
 ## Getting Started
 
 It is easy to setup endgame website on live server or localhost. We have used M.V.C(Model View Controller) approach. Whole website is using one configuration file name as ``` config.php ``` located in ``` APP/Config/Config.php ``` directory. 
