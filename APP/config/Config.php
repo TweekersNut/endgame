@@ -2,9 +2,9 @@
 
 //Db Params
 define('DB_HOST','localhost');
-define('DB_DB','admin_tweekersnut-tut');
-define('DB_USER','admin_tutorials');
-define('DB_PASS','ts6y2sgiZa');
+define('DB_DB',''); // enter database name
+define('DB_USER',''); // enter your db user.
+define('DB_PASS','');//enter your database password.
 
 //APP Config
 define('APP_ROOT',dirname(dirname(__FILE__)));
