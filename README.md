@@ -74,4 +74,4 @@ Our developers are ready to build any custom feature you want for your website. 
 
 ## License
 
-This project is licensed under the GNU Public V3 License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the GNU Public V3 License - see the [LICENSE.md](LICENSE) file for details
