@@ -59,6 +59,16 @@ Video Coming Soon!
 [MySQL](https://mysql.com) - Database <br />
 [Bootstrap](https://getbootstrap.com/) - HTML & CSS framework <br />
 
+## Troubleshooting
+
+If package works but its using ```/public/home/index``` then you can create a .htaccess file given below in the root dir and use it.
+```
+RewriteEngine On
+RewriteRule ^$ public/ [L]
+RewriteRule (.*) public/$1 [L]
+```
+This will map the ```/public``` folder request in the url auto and help you get good S.E.O friendly URL.
+
 ## Bug Reporting
 
 Endgame got dedicated special section inbuilt in administrator panel to quickly report for bug. All bug requests are directly sent to the developers. Every bug query will be first verified and then patch for the bug will be realesed ASAP.
