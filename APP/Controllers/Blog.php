@@ -119,7 +119,6 @@ class Blog extends \APP\Core\Controller {
     }
 
     public function reviews($pagi = null, $num = null) {
-        echo  $this->settings->getValue('pagination.review')->_val;
         $checkGamesCat = $this->blogCatModel->exists('reviews');
 
         if ($checkGamesCat == false) {
