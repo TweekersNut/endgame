@@ -52,7 +52,7 @@ Step 6) Visit your url and enjoy.<br />
 
 ## Deployment
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/DQEO94BauFk/1.jpg)](https://www.youtube.com/watch?v=DQEO94BauFk)
+[![Deployment Tutorial](https://img.youtube.com/vi/DQEO94BauFk/3.jpg)](https://www.youtube.com/watch?v=DQEO94BauFk)
 
 ## Built With
 [TweekersNut Network MVC 1.0](https://tweekersnut.com/) - Framework <br />
