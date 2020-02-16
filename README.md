@@ -52,7 +52,7 @@ Step 6) Visit your url and enjoy.<br />
 
 ## Deployment
 
-Video Coming Soon!
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DQEO94BauFk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Built With
 [TweekersNut Network MVC 1.0](https://tweekersnut.com/) - Framework <br />
