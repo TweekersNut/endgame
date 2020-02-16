@@ -64,7 +64,7 @@ class Admin extends \APP\Core\Controller {
             $data['user_data'] = $this->userModel->data(Session::get('email'));
             //Log Admin Action
 
-            $this->logHandler->writeInfo("User:" . $data['user_data']->email . "|ID:" . $data['user_data']->id . "| Logged In | IP:" . IP::getIP() . "| Browser:" . $_SERVER['HTTP_USER_AGENT']);
+            //$this->logHandler->writeInfo("User:" . $data['user_data']->email . "|ID:" . $data['user_data']->id . "| Logged In | IP:" . IP::getIP() . "| Browser:" . $_SERVER['HTTP_USER_AGENT']);
             //counts
             $data['total_users_count'] = $this->userModel->getTotalCountAdmin()->count;
             $data['total_blog_posts_count'] = $this->blogPostModel->getTotalCountAdmin()->count;
